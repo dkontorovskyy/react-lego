@@ -40,7 +40,7 @@
     }
   },
   "dependencies": {
-    "@babel/core": "^7.0.0-beta.49",
+    "@babel/core": "^7.0.0",
     "@babel/plugin-transform-runtime": "^7.0.0-beta.49",
     "@babel/preset-react": "^7.0.0-beta.49",
     "@babel/runtime": "^7.0.0-beta.49",
@@ -48,12 +48,12 @@
     "babel-core": "^7.0.0-0",
     "babel-loader": "^8.0.0-beta.2",
     "css-loader": "^0.28.10",
-    "cssnano": "^4.0.0-rc.2",
+    "cssnano": "^4.0.0",
     "debug": "^3.1.0",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "http-server": "^0.11.1",
     "node-fetch": "^2.1.2",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.9.1",
     "postcss-loader": "^2.1.1",
     "progress-bar-webpack-plugin": "^1.11.0",
     "promise-polyfill": "^8.0.0",
